@@ -16,7 +16,8 @@
     "react-native-safe-area-context": "^5.8.0",
     "react-native-screens": "^4.25.2",
     "react-native-svg": "^15.15.5",
-    "react-native-web": "^0.21.2"
+    "react-native-web": "^0.21.2",
+    "vercel": "^54.20.1"
   },
   "scripts": {
     "start": "expo start",
